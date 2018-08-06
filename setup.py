@@ -33,7 +33,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'pytree = pytree.cli:main'
+            'pytree = pytree.pytree:main',
         ]
     },
     install_requires=['docopt==0.6.2']
