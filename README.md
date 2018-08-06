@@ -3,6 +3,7 @@ This is a simple project for create command line tool like `tree` in linux.
 
 # Entry virtual environment
 ```
+git clone https://github.com/ADU-21/pytree.git
 cd pytree
 . venv/bin/activate
 python setup.py develop
