@@ -1,4 +1,4 @@
-# Pytree 
+# Pytree [![Build Status](https://travis-ci.org/ADU-21/pytree.svg?branch=master)](https://travis-ci.org/ADU-21/pytree)
 This is a simple project for create command line tool like `tree` in linux.
 
 # Entry virtual environment
