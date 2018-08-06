@@ -14,7 +14,13 @@ python setup.py develop
 pytest
 ```
 
+# Excute pytree
+```
+pytree
+```
+
 # Build excuteable file
 ```
 pyinstaller -F pytree/pytree.py --clean
 ```
+The excuteable file will be `./dist/pytree`
