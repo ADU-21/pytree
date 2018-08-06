@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-setup pytree deps
-"""
 from setuptools import setup, find_packages
 from codecs import open as c_open
 import os

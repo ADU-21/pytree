@@ -41,3 +41,4 @@ build
 .pytest_cache
 pytree.egg-info
 example_pkg.egg-info
+.ropeproject
