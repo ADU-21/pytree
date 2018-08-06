@@ -1,4 +1,4 @@
-# Compiled source
+# Compile source
 *.com
 *.class
 *.dll
@@ -37,3 +37,7 @@ tmtagsHistory
 venv
 dist
 build
+.eggs
+.pytest_cache
+pytree.egg-info
+example_pkg.egg-info
